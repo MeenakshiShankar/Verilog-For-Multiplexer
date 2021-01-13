@@ -3,7 +3,7 @@ This is the verilog code for Multiplexer Implementation.
 
 <p align="center">
   <a>
-    <img src="smw-parking.png" alt="Logo" width="900" height="500">
+    <img src="mux-pic1.png" alt="Logo" width="900" height="500">
   </a>
 
   <h3 align="center">8:1 Mux from 4:1 Mux</h3>
