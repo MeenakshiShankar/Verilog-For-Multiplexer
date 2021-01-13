@@ -15,8 +15,6 @@ This is the verilog code for Multiplexer Implementation.
      Feel free to fork the repo to try and modify the logic to your interest.
      
   Kindly give the project a  star if you find it useful.
-     
-    <br />
     
   </p>
 </p>
